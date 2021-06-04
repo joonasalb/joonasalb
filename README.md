@@ -1,8 +1,8 @@
 <p>
   <samp>
-    :wave: Olá Mundo! ... não pera :S haha Eu sou Desenvolvedor Full-Stack (freela).
-    <br />Atualmente realizo soluções web com React / Laravel / (html5/css3/javascript) para front-end
-    <br /> E PHP (Laravel, CI, PURO)/ Python (django) / NODEJS para back-end
+    :wave: Olá Mundo! ... não pera :S haha Eu sou Desenvolvedor Full-Stack.
+    <br />Realizo soluções web com React / Laravel / (html5/css3/javascript) para Front-end
+    <br /> e *PHP* (Laravel, CI, PURO), Python (django), NodeJS para Back-end
     <details>
       <summary><b>:telescope: Meu linktr.ee</b></summary>
       <ul>
