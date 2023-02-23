@@ -32,6 +32,12 @@
   </samp>
 </p>
 
+<!-- ![Jonas github stats](https://github-readme-stats.vercel.app/api?username=joonasalb&show_icons=true&theme=dark) -->
+
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonasalb&layout=compact&langs_count=8&theme=dracula"/>
+ </div>
+ 
 ### Languages, Frameworks and Tools I use and I have worked with:
 **Languages and Tools:**
 
