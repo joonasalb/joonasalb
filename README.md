@@ -1,8 +1,8 @@
 <p>
   <samp>
     :wave: Olá Mundo! ... não pera :S haha Eu sou Desenvolvedor Full-Stack.
-    <br />Realizo soluções web com React / Laravel / (html5/css3/javascript) para Front-end
-    <br /> e *PHP* (Laravel, CI & Zend), *Python* (Django & Flask), *Javascript* (Vue, React Native & React)
+    <br /> Realizo soluções web com as tecnologias:
+    <br /> PHP (Laravel, CI & Zend), Python (Django & Flask), Javascript (Vue, React Native & React)
     <details>
       <summary><b>:telescope: Meu linktr.ee</b></summary>
       <ul>
